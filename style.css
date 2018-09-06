@@ -16,8 +16,5 @@ body {
 div {
   width: 25%;
   background-color: red;
-}
-#details {
-  float: left;
-
+  float: left
 }
