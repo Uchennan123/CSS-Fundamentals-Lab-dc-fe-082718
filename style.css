@@ -9,7 +9,8 @@ body {
   text-align: center
 }
 nav {
-  padding: 10px;
+  padding-left: 10px;
+  padding-top: 10px
   background-color: grey;
 }
 
