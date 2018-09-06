@@ -9,8 +9,9 @@ body {
   text-align: center
 }
 
-figure {
-  
+#featured-property {
+  width: 800px;
+  text-align: center;
 }
 div {
   width: 25%;
