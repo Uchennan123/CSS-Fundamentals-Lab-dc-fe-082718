@@ -18,7 +18,7 @@ div {
   background-color: red;
 }
 #details {
-  display: inline block;
+  display: inline-block;
   float: left;
 
 }
