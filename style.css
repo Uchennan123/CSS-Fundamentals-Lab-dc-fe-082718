@@ -18,7 +18,6 @@ div {
   background-color: red;
 }
 #details {
-  display: inline-block;
   float: left;
 
 }
