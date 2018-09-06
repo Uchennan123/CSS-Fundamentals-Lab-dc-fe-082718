@@ -10,8 +10,8 @@ body {
 }
 nav a {
   padding-left: 10px;
-  padding-top: 10px;
-  background-color: grey;
+  padding-right: 10px;
+  background-color: green;
 }
 
 #featured-property {
