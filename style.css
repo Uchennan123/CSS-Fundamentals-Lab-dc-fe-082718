@@ -19,5 +19,6 @@ div {
 }
 #details {
   display: block;
-  float: left
+  float: left;
+  position: horizontal
 }
