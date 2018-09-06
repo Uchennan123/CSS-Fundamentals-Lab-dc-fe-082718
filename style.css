@@ -14,12 +14,12 @@ nav a {
   background-color: green;
 }
 
-p #featured-property {
+#featured-property {
   width: 700;
   text-align: right;
 }
 div {
   width: 25%;
-  background-color: blue;
+  background-color: red;
   float: left
 }
