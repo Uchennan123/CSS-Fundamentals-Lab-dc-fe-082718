@@ -14,11 +14,10 @@ nav a {
   background-color: green;
 }
 
-#featured-property {
-  width: 700;
-  text-align: center;
-  
+p {
+  text-align: justify;
 }
+
 div {
   width: 25%;
   background-color: red;
